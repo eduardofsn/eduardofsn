@@ -1,6 +1,7 @@
-### Bem-vindo(a) 👋
+## Bem-vindo(a) 👋
 
-Me chamo Eduardo Fonseca Silveira Namiuti e atualmente estou cursando Desenvolvimento de Software Multiplataforma na Fatec.
+* Me chamo Eduardo Fonseca Silveira Namiuti e atualmente estou 
+cursando Desenvolvimento de Software Multiplataforma na Fatec.
 
 
 
